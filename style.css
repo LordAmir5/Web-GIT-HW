@@ -9,6 +9,7 @@ html{
 }
 
 .bigpart{
+    padding-top: 5px;
     height: 400px;
     width: 270px;
     background: linear-gradient(rgba(171, 179, 192, 0.694), rgba(220, 234, 248, 0.674));
@@ -21,12 +22,8 @@ html{
    background: linear-gradient(rgba(171, 179, 192, 0.796), rgba(220, 234, 248, 0.792));
 }
 
-head ->{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-music player part ->{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.title{
+    margin: 10px 34%;
 }
 
 song and the song writers -> {
