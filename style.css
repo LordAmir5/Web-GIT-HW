@@ -61,19 +61,39 @@ song writers while mouseover{
     cursor: pointer;
 }
 .background{
+    display: inline-block;
     margin: 10px;
+    margin-top: 5px;
     width: 250px;
     height: 5px;
     background-color: #ffffff;
     border-radius: 3px;
 }
 .progress{
-    min-width: 0%;
-    max-width: 100%;
-    height:100%;
-    background-color:cornflowerblue;
+    width:50%;
+    height: 100%;
+    background-color:dodgerblue;
     border-radius: 3px;
+}
+.slider{
+    background-color: dodgerblue;
+    height: 9px;
+    width: 9px;
+    border-radius: 50%;
+    float: right;
+    margin-right: -5px;
+    margin-top:  -2px;;
+}
+.slider:hover,.progress{
+    cursor: pointer;
 }
 li{display: inline;
     margin:8px;
 }
+.timer{
+    color:#ffffff;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 163px;
+}
+#time{margin-right: 10px;}
