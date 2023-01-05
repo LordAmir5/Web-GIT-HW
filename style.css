@@ -57,6 +57,6 @@ p{
 
 .back
 .for
-.play while mouseover -> {
+.play while mouseover  -> {
     border-color: #bebebe;
 }
