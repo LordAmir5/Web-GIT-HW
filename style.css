@@ -26,19 +26,23 @@ html{
     margin: 10px 34%;
 }
 
-song and the song writers -> {
+p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#ffffff;
+}
+.song{
+    margin-left: 39%;
 }
 
-
-song writers -> {
+.credits{
     color: #666666;
     font-size: smaller;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 32%;
 }
 
-song writers while mouseover{
+.credits:hover{
     color: #2e2e2e;
+    cursor: pointer;
 }
 
 .play,
