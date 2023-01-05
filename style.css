@@ -60,3 +60,8 @@ p{
 .play while mouseover  -> {
     border-color: #bebebe;
 }
+
+img{height: 250px;
+    width: 250px;
+    margin: 0px 10px
+}
