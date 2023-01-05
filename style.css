@@ -61,7 +61,10 @@ p{
     border-color: #bebebe;
 }
 
-img{height: 250px;
-    width: 250px;
-    margin: 0px 10px
+img{height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 35px;
+    margin-right: 30px;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,20%);
 }
